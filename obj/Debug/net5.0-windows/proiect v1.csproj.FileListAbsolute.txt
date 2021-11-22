@@ -1,0 +1,26 @@
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.exe
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.deps.json
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.runtimeconfig.json
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.runtimeconfig.dev.json
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.dll
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\ref\proiect v1.dll
+C:\Users\vosi\Desktop\New folder\bin\Debug\net5.0-windows\proiect v1.pdb
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.csprojAssemblyReference.cache
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.adaugare_angajatForm.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.adaugare_client.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.adaugare_piesa_form.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.admin_form.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.afisare_registru.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.log_inForm.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.modificare_angajat_form.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.Normal.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect_v1.Properties.Resources.resources
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.csproj.GenerateResource.cache
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.AssemblyInfoInputs.cache
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.AssemblyInfo.cs
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.csproj.CoreCompileInputs.cache
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.dll
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\ref\proiect v1.dll
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.pdb
+C:\Users\vosi\Desktop\New folder\obj\Debug\net5.0-windows\proiect v1.genruntimeconfig.cache

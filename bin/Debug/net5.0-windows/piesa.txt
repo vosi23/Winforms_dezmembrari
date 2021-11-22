@@ -1,0 +1,5 @@
+1;ford;mustang;2005;cutie de viteze;500.5
+3;toyota;supra;2003;cutie viteze;500.99
+4;Toyota;Supra;2004;Bloc motor;5000
+5;Nissan;RX-7;2006;Autoblocant;3000
+7;ford;focus;2006;bloc motor;1550
